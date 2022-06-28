@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+h1{
+    color: rgb(255, 218, 6);
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+    padding: 5px;
+    margin: 10px;
+   }
+.nav{
+    display: flex;
+
+}
+p{
+    background: rgb(72, 55, 230);
+}
+body{
+    background: rgb(184, 126, 184);
+}
