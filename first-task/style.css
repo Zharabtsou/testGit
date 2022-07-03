@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: rgb(165, 162, 162);
+}
+a{
+    text-decoration: none; /* Убираем подчёркивание */
+}
+li{
+    list-style-type: none;
+}
+header{
+    background-color: black;
+    max-height: 50px;
+}
+
+.nav-list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.nav-list .item{
+    padding: 2px 5px;
+}
+
+
+
+
+#foto{
+    border: solid 7px rgb(135, 48, 161);
+    border-radius: 100%;
+    width: 300px;
+}
